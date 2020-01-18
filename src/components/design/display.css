@@ -1,0 +1,33 @@
+.imgTshirt{
+    position: relative;
+}
+.memeText{
+    position:absolute;
+    top:190px;
+    left:210px;
+}
+.memeText img{
+    max-width: 300px;
+    border:6px solid #ffffff;
+}
+
+.memeText p{
+    font-family: Impact, Charcoal, sans-serif;
+    color: #ffffff;
+}
+
+.lowertext{
+    margin-top: 10px;
+}
+
+.tshirt-color{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.tshirt-color img{
+    width:15%;
+    height:15%;
+}
